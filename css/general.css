@@ -8,6 +8,7 @@ h1{
     font-family: sans-serif;
     clear: both;
     padding-top: 10px;
+    text-decoration: underline;
 }
 
 p {
