@@ -1,12 +1,5 @@
-html {
-    background-color: rgb(158, 228, 158);
-    background: url(images/SpiralLeafs.png) no-repeat center center fixed;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
-  } 
-
 body{
+    background-color: rgb(158, 228, 158);
     margin: 0x;
     margin-left: 0x;
     position: 33%;
@@ -21,7 +14,8 @@ h1{
 p {
     font-family: serif;
     color: black;
-    font-size: x-large;3
+    font-size: x-large;
+    font-weight: 100;
 }
 
 header {
@@ -78,3 +72,4 @@ a:visited {
     background: black;
     color: limegreen;
   }
+  
