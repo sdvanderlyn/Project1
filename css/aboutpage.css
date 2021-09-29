@@ -1,0 +1,29 @@
+.words {
+    position: absolute;
+    display: flex;
+    text-align: left;
+    left:0;
+    white-space: pre;
+
+}
+.words p {
+    top: 10px;
+}
+.photo {
+    display: flex;
+    right: 0;
+    justify-content: right;
+    margin: 0;
+    image-rendering: auto;
+}
+
+/* Split the screen in half */
+.split {
+    height: 100%;
+    width: 70%;
+    position: absolute;
+    top: 215px;
+    margin: 0;
+    bottom: 98%;
+  }
+  
