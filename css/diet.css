@@ -1,0 +1,25 @@
+.pics
+{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.pics .photo :hover
+{
+    transform: scale(1.5);
+}
+
+figcaption
+{
+    font-size: medium;
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+    justify-content: center;
+}
