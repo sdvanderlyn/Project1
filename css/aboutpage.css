@@ -1,29 +1,39 @@
 .words {
-    position: absolute;
-    display: flex;
+    position: relative;
     text-align: left;
     left:0;
     white-space: pre;
+    padding-right: 45px;
+    padding-left: 15px;
 
 }
 .words p {
-    top: 10px;
+    top: 5px;
 }
 .photo {
-    display: flex;
     right: 0;
     justify-content: right;
     margin: 0;
     image-rendering: auto;
 }
 
+.photo .img
+{
+    border-radius: 10px;
+    border-color: black;
+    border-style: double;
+    justify-content: right;
+}
+
 /* Split the screen in half */
 .split {
-    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 1vh;
     width: 70%;
-    position: absolute;
-    top: 215px;
+    padding-top: 10px;
+    position: relative;
     margin: 0;
-    bottom: 98%;
   }
   
