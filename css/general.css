@@ -2,9 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: #f1e558;
-    margin: 0x;
-    margin-left: 0x;
-    position: 33%;
+    margin: 0;
 }
 h1{
     display: flex;
@@ -39,7 +37,7 @@ header {
     color: rgb(114, 17, 17);
     width: 99%;
     height: 25%;
-    margin: 0px;
+    margin: 0;
     padding: 0;
     left: 2px;
     font-size: 400%;
@@ -90,7 +88,6 @@ a:visited {
 .navbar a:hover {
     background: black;
     color: limegreen;
-    size: 100%;
   }
 
 footer {
