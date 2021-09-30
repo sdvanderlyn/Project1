@@ -82,7 +82,7 @@
     .scene{
         padding-top: 20px;
         padding-bottom: 20px;
-        width: 275;
+        width: 275px;
         perspective: 2000px;
     }
 }

@@ -29,14 +29,9 @@ p{
     .pics
     {
         flex-direction: column;
-        size: 75%;
         padding-top: 10px;
         justify-content: flex-end;
         align-self: center;
-    }
-
-    .pics .photo {
-        size: 70%;
     }
     footer {
         padding-top: 20px;
