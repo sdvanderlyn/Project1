@@ -23,6 +23,7 @@
     border-color: black;
     border-style: double;
     justify-content: right;
+    width: 300; height: 300;
 }
 
 /* Split the screen in half */
@@ -51,6 +52,14 @@
         font-size: 125%;
     }
 
+    p {
+        font-size: small;
+    }
+
+    .photo .img {
+        width: 250;
+        height: 350;
+    }
     .split
     {
         flex-direction: column;

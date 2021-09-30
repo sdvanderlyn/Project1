@@ -78,4 +78,11 @@
     .navbar {
         font-size: 125%;
     }
+
+    .scene{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        width: 275;
+        perspective: 2000px;
+    }
 }
