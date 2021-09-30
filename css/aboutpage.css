@@ -36,4 +36,24 @@
     position: relative;
     margin: 0;
   }
+
+  @media screen and (max-width: 900) 
+{
+    footer {
+        font-size: medium;
+    }
+
+    header {
+        font-size: 200%;
+    }
+
+    .navbar {
+        font-size: 125%;
+    }
+
+    .split
+    {
+        flex-direction: column;
+    }
+}
   

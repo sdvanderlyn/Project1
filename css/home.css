@@ -34,3 +34,18 @@ h2
         font-size: x-large;
         color: black;
   }
+
+  @media screen and (max-width: 900) 
+{
+    footer {
+        font-size: medium;
+    }
+
+    header {
+        font-size: 200%;
+    }
+
+    .navbar {
+        font-size: 125%;
+    }
+}

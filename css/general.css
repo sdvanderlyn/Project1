@@ -115,3 +115,22 @@ footer {
     height: 90px;
     flex-shrink: 0;
 }
+
+@media screen and (max-width: 900) 
+{
+    body 
+    {
+        flex-direction: column;
+    }
+    footer {
+        font-size: medium;
+    }
+
+    header {
+        font-size: 200%;
+    }
+
+    .navbar {
+        font-size: 125%;
+    }
+}

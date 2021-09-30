@@ -23,3 +23,23 @@ p{
     font-size: x-large;
     justify-content: center;
 }
+
+@media screen and (max-width: 900px)
+{
+    .pics
+    {
+        flex-direction: column;
+    }
+    
+    footer {
+        font-size: medium;
+    }
+
+    header {
+        font-size: 200%;
+    }
+
+    .navbar {
+        font-size: 125%;
+    }
+}
