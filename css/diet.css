@@ -24,6 +24,12 @@ p{
     justify-content: center;
 }
 
+form
+{
+    display: flex;
+    justify-content: center;
+}
+
 @media screen and (max-width: 1200px)
 {
     .pics
@@ -34,7 +40,6 @@ p{
         align-self: center;
     }
     footer {
-        padding-top: 20px;
         font-size: medium;
     }
 
@@ -48,6 +53,8 @@ p{
 
     p {
         font-size: medium;
+    }
+    form{
         padding-bottom: 100px;
     }
 }
