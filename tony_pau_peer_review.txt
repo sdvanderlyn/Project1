@@ -1,0 +1,15 @@
+1. I like the fitness theme, the information the website contains is nice as well.
+
+2a. The colors on your site compared to mine are a bit colorful and don't fit well together in my opinion. I suggest using some kind of color palette online.
+2b. You should make use of white space, especially on the home and workouts page to emphasize what your audience should look at.
+
+3. Code looks well structured for the most part, but there are some lines that aren't consistent.
+    link tags should be indented on lines 3,4 in index.html, diets.html, about-page.html, blog.html, and workouts.html
+    There are a lot of <br> tags which I understand helps format your text properly, but it makes the site hard to maintain and update later on.
+
+4a. Lots of glaring typos, perhaps use Code Spell Checker on VSCode
+4b. Workout page is cool conceptually but you really should avoid unnecessary animation and text on images. This is basically impossible for a screenreader to read, and it's bad that I have to wait some seconds to hover over it at the right time to read the list properly.
+4c. Not a fan of the dashed border for the navbar, it implies that I should cut it out like its some kind of coupon.
+4d. Change the font up a bit, having some sans-serif font will make your site look cleaner and more modern.
+4e. Keep your images consistent, on diet.html you have a Just Egg image that has a background while the others do not. Images are slightly out of alignment on the home page.
+
